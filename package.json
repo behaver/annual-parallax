@@ -1,6 +1,6 @@
 {
   "name": "@behaver/annual-parallax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for calculating annual parallax.",
   "main": "index.js",
   "scripts": {
