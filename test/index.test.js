@@ -38,6 +38,8 @@ describe('#AnnualParallax', () => {
           }),
           res = AP.get();
 
+      console.log(AP.get());
+      
       AP.system = 'ecliptic';
 
       console.log(AP.get());

@@ -46,7 +46,7 @@ let res = AP.get();
 
 `get()`
 
-获取周年视差
+获取 周年视差修正值对象
 
 `get time()`
 
