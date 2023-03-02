@@ -24,7 +24,7 @@
     "@behaver/coordinate": "^3.4.0",
     "@behaver/jdate": "^2.3.2",
     "chai": "^4.2.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "@behaver/earth-ssb": "^1.0.5"
